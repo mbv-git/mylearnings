@@ -1,0 +1,2 @@
+Retrieval Augmented Generation combines vector search with language models.
+LangChain provides tools to build AI pipelines.
